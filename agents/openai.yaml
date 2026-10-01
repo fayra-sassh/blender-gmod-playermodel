@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender → GMod 玩家模型与手模"
+  short_description: "制作或修复 GMod 玩家模型与第一人称手模，缺失工具先选安装方式，完成由用户验收"
+  default_prompt: "使用 $blender-gmod-playermodel 制作或修复这个 Blender 人物的 GMod 玩家模型及所需第一人称手模。先检测软件和插件；缺少必需项时让我选择自行安装或由 Codex 安装，自行安装请给官方链接及安装步骤，选择前不要下载或安装。保留角色外观并完成绑定、贴图、导出、编译和可回退安装。完成后交付给我自行验证游戏效果，不默认渲染、测试动作或启动、关闭、重启 GMod/HLMV。"

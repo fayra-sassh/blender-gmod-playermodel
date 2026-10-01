@@ -1,0 +1,22 @@
+# Local credentials and runtime configuration
+.env
+.env.*
+.codex/
+.aws/
+config.toml
+credentials
+*.pem
+*.pfx
+*.p12
+*.key
+id_rsa*
+id_ed25519*
+
+# Generated local files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+_downloads/
+*.partial
